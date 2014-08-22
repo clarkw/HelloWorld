@@ -17,4 +17,12 @@ Midland MI 48642
 989-948-9448  
 clark@knowideas.com
 
-Run the project at http://helloworld.knowideas.com
+The project repository is:  
+https://github.com/clarkw/HelloWorld
+
+Run the project at:  
+http://helloworld.knowideas.com
+
+To run the report go to:  
+http://helloworld.knowideas.com/registered_users_report
+
