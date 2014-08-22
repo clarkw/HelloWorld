@@ -1,0 +1,58 @@
+/* - Global */
+* {
+	margin:	0;
+	padding:	2px 2px 2px 2px;
+	font-family:	Arial, Helvetica, sans-serif;
+}
+p {
+	text-indent:	1em;
+	margin:	1em;
+}
+body {
+	background:	#FFFF;
+}
+label {
+  font-size: 12px;
+  display:block;
+}
+
+legend {
+  text-align:center;
+  font-size: 12px;
+  font-weight: bold;
+  color: #999;
+  padding: 0 5px;
+}
+
+fieldset {
+  border: 1px solid #ccc;
+	width: 200px;
+	padding: 20px 20px 20px 20px;
+	margin-left: 20px;
+}
+
+input[type=text] {
+  border: 1px sold #aaa;
+}
+
+#main_content input, #main_content textarea {
+  -moz-border-radius: 	5px;
+  -webkit-border-radius:5px;
+  -khtml-border-radius: 5px;
+  border-radius: 		5px;
+	background-color:	#EFEFEF;
+	border:				0px solid #767676;
+}
+#main_content input[type=text], #main_content textarea {
+  -moz-border-radius: 	5px;
+  -webkit-border-radius:5px;
+  -khtml-border-radius: 5px;
+  border-radius: 		5px;
+	padding:			5px;
+}
+#main_content table td.span3 input[type=text] {
+  -moz-border-radius: 	5px;
+  -webkit-border-radius:5px;
+  -khtml-border-radius: 5px;
+  border-radius: 		5px;
+}
