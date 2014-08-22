@@ -7,9 +7,9 @@ Validation is done by the database, server side and client side.
 
 ###Enhancements that could be added:
 * PHPUnit testing
-* Better front end look & Feel.
+* Better front end look & feel.
 
-###This project was coded from scratch in ~8 hours.
+####This project was coded from scratch in ~8 hours.
 
 William Clark  
 4320 E Baker Rd  
@@ -17,12 +17,12 @@ Midland MI 48642
 989-948-9448  
 clark@knowideas.com
 
-The project repository is:  
+######The project repository is:  
 https://github.com/clarkw/HelloWorld
 
-Run the project at:  
+######Run the project at:  
 http://helloworld.knowideas.com
 
-To run the report go to:  
+######To run the report go to:  
 http://helloworld.knowideas.com/registered_users_report
 
